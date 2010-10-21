@@ -8,8 +8,8 @@
     <ProjectGuid>{E748E87B-94A8-4399-A470-C1EE24101A85}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>NUnitTestRunner</RootNamespace>
-    <AssemblyName>NUnitTestRunner</AssemblyName>
+    <RootNamespace>NUnitTests</RootNamespace>
+    <AssemblyName>NUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

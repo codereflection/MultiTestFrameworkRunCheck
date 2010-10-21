@@ -1,7 +1,7 @@
 ﻿using NUnit.Framework;
 using TheClassLibrary;
 
-namespace NUnitTestRunner
+namespace NUnitTests
 {
     [TestFixture]
     public class NUnitTests

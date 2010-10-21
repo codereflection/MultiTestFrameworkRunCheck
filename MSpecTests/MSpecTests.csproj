@@ -8,8 +8,8 @@
     <ProjectGuid>{5245FCE0-9764-419C-BF16-3B9038D32943}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>MSpecTestRunner</RootNamespace>
-    <AssemblyName>MSpecTestRunner</AssemblyName>
+    <RootNamespace>MSpecTests</RootNamespace>
+    <AssemblyName>MSpecTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

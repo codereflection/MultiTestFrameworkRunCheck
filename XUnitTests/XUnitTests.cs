@@ -1,7 +1,7 @@
 ﻿using TheClassLibrary;
 using Xunit;
 
-namespace XUnitTestRunner
+namespace XUnitTests
 {
     public class XUnitTests
     {

@@ -1,7 +1,7 @@
 ﻿using MbUnit.Framework;
 using TheClassLibrary;
 
-namespace GallioTestRunner
+namespace GallioTests
 {
     [TestFixture]
     public class GallioTests

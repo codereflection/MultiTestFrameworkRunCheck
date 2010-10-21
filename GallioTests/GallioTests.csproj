@@ -8,8 +8,8 @@
     <ProjectGuid>{422F1E4A-17EB-4EA8-B1B2-FDD7B5E0C7D9}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>GallioTestRunner</RootNamespace>
-    <AssemblyName>GallioTestRunner</AssemblyName>
+    <RootNamespace>GallioTests</RootNamespace>
+    <AssemblyName>GallioTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>

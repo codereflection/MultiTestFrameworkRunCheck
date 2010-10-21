@@ -1,7 +1,7 @@
 ﻿using Machine.Specifications;
 using TheClassLibrary;
 
-namespace MSpecTestRunner
+namespace MSpecTests
 {
     public class MSpecTests
     {

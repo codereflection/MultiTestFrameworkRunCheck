@@ -8,8 +8,8 @@
     <ProjectGuid>{06BF2ED2-87FD-402F-87AA-114676E8E6CB}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>XUnitTestRunner</RootNamespace>
-    <AssemblyName>XUnitTestRunner</AssemblyName>
+    <RootNamespace>XUnitTests</RootNamespace>
+    <AssemblyName>XUnitTests</AssemblyName>
     <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
