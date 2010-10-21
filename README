@@ -1,0 +1,8 @@
+The sole purpose of this solution is to test the runtime of 
+the most populate test frameworks for .NET.
+
+Use a test runner such as TestDriven.NET on the Tests solution folder,
+or on the entire solution itself, then compare the run times of the 
+test frameworks in the test output.
+
+Here's my initial run: http://gist.github.com/638733
