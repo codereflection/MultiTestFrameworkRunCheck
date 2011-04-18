@@ -6,3 +6,5 @@ or on the entire solution itself, then compare the run times of the
 test frameworks in the test output.
 
 Here's my initial run: http://gist.github.com/638733
+
+Note: In order to get the Gallio tests to run, you have to install the Gallio framework, which can be grabbed from here: http://gallio.org/Downloads.aspx (I cannot tell you how much this bothers me).
